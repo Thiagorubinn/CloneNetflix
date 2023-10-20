@@ -16,6 +16,7 @@ O Netflix Clone oferece as seguintes funcionalidades:
 -Exibição de informações detalhadas sobre os filmes ou séries, incluindo título, descrição, pontuação, ano, temporadas e gêneros dos filmes em destaque.
 -Layout responsivo que se adapta a diferentes tamanhos de tela.
 
+
 ![ProjetoNetflix](https://github.com/Thiagorubinn/CloneNetflix/assets/97856302/051979b4-0629-467a-b882-503aabfbbd0c)
 
 
